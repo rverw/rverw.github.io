@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: /about/
+permalink: /about_template/
 toc: true
 layout: single
 author_profile: true

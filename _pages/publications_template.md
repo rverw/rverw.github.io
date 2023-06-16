@@ -1,6 +1,6 @@
 ---
 title: Publications
-permalink: /publications/
+permalink: /publications_templates/
 layout: single # splash
 toc: true
 toc_label: "Table of Contents"

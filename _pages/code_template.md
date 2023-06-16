@@ -1,6 +1,6 @@
 ---
 title: Code
-permalink: /code/
+permalink: /code_template/
 layout: single # splash
 toc: true
 toc_label: "Table of Contents"
