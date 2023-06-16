@@ -1,6 +1,6 @@
 ---
 title: Publications
-permalink: /publications_roos/
+permalink: /publications/
 layout: single # splash
 toc: true
 toc_label: "Table of Contents"

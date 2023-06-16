@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: /about_roos/
+permalink: /about/
 toc: true
 layout: single
 author_profile: true
