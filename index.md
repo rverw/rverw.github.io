@@ -2,9 +2,10 @@
 layout: home
 author_profile: true
 header:
-  image: /img/coastline.jpg
+  image: /img/joshuatree.JPG
 ---
 
-I'm an applied mathematician working on the [CLIMA] project. My research interests are in numerical methods, scientific computing, optimization, Bayesian methods, machine learning, and geophysics.
+I'm a PhD student in Seismology working on how seamounts influence 1) the earthquake cycle with Prof. Camilla Cattania ([Fault Mechanics @MIT]), and 2) the ocean overturning with Prof. [Raffaele Ferrari]. My research interests are in numerical methods, machine learning, physical oceanography, and geophysics.
 
-[CLIMA]: https://clima.caltech.edu
+[Fault Mechanics @MIT]: https://eqsci.mit.edu/camcat/
+[Raffaele Ferrari]: http://ferrari.mit.edu/

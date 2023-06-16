@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes@4.19.3"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" #background color
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Andre Nogueira de Souza"
+name                     : "Roos Verwijs"
 description              : " "
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -93,14 +93,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andre Nogueira de Souza"
+  name             : "Roos Verwijs"
   avatar           : "/img/me.png"
   bio              : " "
-  location         : "Cambridge, MA"
+  location         : "Boston, MA"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url:  "mailto:andrenogueirasouza@gmail.com"
+      url:  "mailto:rverwijs@mit.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -112,7 +112,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/sandreza"
+      url: "https://github.com/rverw"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -128,7 +128,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/sandreza
+      url: https://github.com/rverw
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
